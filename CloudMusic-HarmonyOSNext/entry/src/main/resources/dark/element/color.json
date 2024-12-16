@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#121212"
+    },
+    {
+      "name": "main",
+      "value": "#FF212121"
+    },
+    {
+      "name": "reverse",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background",
+      "value": "#121212"
+    },
+    {
+      "name": "component_background",
+      "value": "#282828"
+    }
+  ]
+}
